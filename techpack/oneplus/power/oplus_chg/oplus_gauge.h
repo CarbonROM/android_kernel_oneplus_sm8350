@@ -20,6 +20,7 @@ struct oplus_gauge_chip {
 
 struct oplus_gauge_operations {
 	int (*get_battery_mvolts)(void);
+	int (*get_battery_ttf)(void);
 	int (*get_battery_fc)(void);
 	int (*get_battery_qm)(void);
 	int (*get_battery_pd)(void);
