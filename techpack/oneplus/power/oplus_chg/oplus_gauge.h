@@ -111,6 +111,7 @@ int oplus_gauge_get_prev_batt_mvolts_2cell_min(void);
 int oplus_gauge_get_prev_batt_temperature(void);
 int oplus_gauge_get_prev_batt_soc(void);
 int oplus_gauge_get_prev_batt_current(void);
+int oplus_gauge_get_batt_ttf(void);
 int oplus_gauge_get_prev_remaining_capacity(void);
 int oplus_gauge_get_prev_batt_fcc(void);
 int oplus_gauge_update_battery_dod0(void);
