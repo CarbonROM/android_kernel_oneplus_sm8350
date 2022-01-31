@@ -1,4 +1,22 @@
 {
   "pushCert": "certificate version 0.1\npusher 822AA3E6EE28340C! 1643662876 -0600\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_kernel_oneplus_sm8350\nnonce 1643662876-3285AC7242228D4F20791156E493AD57F8CBD682\n\n0000000000000000000000000000000000000000 37d2aa6cb50b859f8f03cf5a1464641cb350cddd refs/for/cr-9.0\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEvw/uUiV8PGgD+twvgiqj5u4oNAwFAmH4ThwACgkQgiqj5u4o\nNAxjghAA2fg9us5/T0NAB8besYWtTSRtDt3wogYaLkltkb9eO0L3/I92qq/hG3Tv\nn3PV6rlV7pryIXHB5dLM0cUiR0c7CNAO7cq83izLPjQL4AMWrItFd5V0hIQ0OatC\nJAFSggOmVpUHr6Npjg1Q0LqHvxw+LZU1zLXlzIxO0H4hcACBVn0zFlRSPOvUb173\nPm6aRKTPn8Hz0DRY+/VHjddH7zWrevhEdwVucxwhmcCmDh/O/Yut3fEJ7ULH4WeM\n2oFR/KN4sR78WADF0r3hwP7T/OJAs/7g4sc8vSHlTwS1/nP488h2REIJLyXkot5z\nLXNfSkMpSfvFNJlD+YjjV9OwjS4dLZK3lbks1W2GVn2B4I47hUWNSQQoCywgdJ7Z\nYAwqhR/GR+ZUVt7gqhuLi/qfdQd0UE2DlUCl5Hy6biKYanYfU52QELgKeu176IUM\nkg9nj885cRJ/l8ZFnaRdDiQv/Mt6XLyQdB4GSsU6U+TWpCIV/NZbefXpvZzdrvSM\nrRh30fQaYcpDYWqhCWc18Y28y5qX2gHr64p7H9nKOWSQSXKcGtYIV70qLoZm74K7\nPibIYGXQptBkuiQBryoBFFbeY6SJMA530GoCcT+3a7QPU8bGhr0Z9B/br7cnbxmQ\nRsnL3oMX/xJWDgrvOKrHAPEA8r0QCNGiF16KiDHPUyFcYnNOns8\u003d\n\u003dtI4l\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "456d7d7e_bf408bd0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 12
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 341
+      },
+      "writtenOn": "2022-01-31T21:06:08Z",
+      "side": 1,
+      "message": "Unless patchset 6..7 should be partially reverted (multiplying by 60 for seconds), this is good to go.",
+      "revId": "37d2aa6cb50b859f8f03cf5a1464641cb350cddd",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081"
+    }
+  ]
 }
