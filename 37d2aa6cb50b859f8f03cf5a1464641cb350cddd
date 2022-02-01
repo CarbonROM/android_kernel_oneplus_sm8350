@@ -17,6 +17,23 @@
       "message": "Unless patchset 6..7 should be partially reverted (multiplying by 60 for seconds), this is good to go.",
       "revId": "37d2aa6cb50b859f8f03cf5a1464641cb350cddd",
       "serverId": "4c0b52a2-b090-4331-a190-b288d812d081"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "24f6756a_b21aa203",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 12
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2022-02-01T14:20:23Z",
+      "side": 1,
+      "message": "it appears that the gauge is getting suspended when warpcharge is used. this results in the value staying static after a while. -\u003e TTF is unusable again",
+      "revId": "37d2aa6cb50b859f8f03cf5a1464641cb350cddd",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081"
     }
   ]
 }
